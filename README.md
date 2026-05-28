@@ -34,20 +34,13 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelrahman123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman123&theme=tokyonight&row=1&column=7"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=abdelrahman123&theme=radical&no-frame=true&row=1&column=7"/>
 
+## 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=abdelrahman123&theme=radical&hide_border=true"/>
 ---
 
 ## 👀 Profile Views

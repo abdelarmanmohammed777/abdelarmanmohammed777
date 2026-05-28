@@ -1,26 +1,23 @@
 # <h1 align="center">Hi 👋, I'm Abdelrahman Mohammed</h1>
 
-<h3 align="center">🚀 Community Leader | 💻 Full Stack Learner | 🌍 Tech Enthusiast</h3>
+<h3 align="center">🚀 Community Leader | 💻 Full Stack Developer | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Frontend+%7C+Backend+%7C+Python+%7C+SQL;Building+Projects+%F0%9F%9A%80;Learning+Data+Structures+%F0%9F%92%A1;Always+Improving+Every+Day+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile!;Frontend+%7C+Backend+%7C+Python+%7C+SQL;Building+Real+World+Projects+🚀;Learning+DSA+Every+Day+📚;Never+Stop+Improving+✨" />
 </p>
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
-
-* 🌱 Learning: **Python, SQL, Data Structures & Algorithms**
-* 👯 Love helping tech communities grow
-* 🎤 Speaker & Workshop Organizer
-* 🚀 Building real-world projects step by step
-* ⚡ Fun fact: I enjoy solving problems & gaming
+* 🌱 Learning: Python • SQL • Data Structures • Algorithms
+* 👨‍🏫 Community Mentor & Workshop Speaker
+* 🚀 Passionate about building real projects
+* 🎮 Gamer & Problem Solver
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,linux" />
@@ -37,7 +34,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdelrahman123&theme=tokyonight&hide_border=true"/>
@@ -45,7 +42,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman123&theme=tokyonight&row=1&column=7"/>
@@ -53,30 +50,32 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://wa.me/201288312230">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abdelrahman123">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman123&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman123&style=for-the-badge&color=00FFFF"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://wa.me/201288312230">
+    <img src="https://img.shields.io/badge/WhatsApp-00FFAA?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Keep building. Keep learning. Keep growing ✨</b>
+  <b>🔥 Keep learning. Keep building. Keep winning. 🔥</b>
 </p>

@@ -34,22 +34,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelarmanmohammed777&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelarmanmohammed777&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">

@@ -1,24 +1,35 @@
-# Abdelarman Mohammed 👨‍💻
+# Abdelrahman Mohammed 👨‍💻
 
+## Hi there 👋
 
-## Hi there 👋,
+I'm **Abdelrahman Mohammed**, a community-driven tech enthusiast who loves building products, helping students grow, and contributing to tech communities.
 
-### I'mAbdelarman Mohammed, I am a community guy who loves tech and see myself as product enthoziast.
--------
-  
-## 🧐 About
+---
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+## 🧐 About Me
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+* 🏄 Community guy who loves being involved in communities and helping students grow
+* 😄 Usually participating in hackathons as a **Mentor**, **Participant**, or **Organizer**
+* 🌱 Passionate about public speaking, workshops, webinars, and community events
+* 👯 Love collaborating with developers and tech communities worldwide
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/201288312230)
-- ⚡ Fun fact: I love meeting new people and video games!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+---
 
+## 🌍 Hello World!
 
-![](https://u8views.com/api/v1/github/profiles/USERNAME/views/day-week-month-total-count.svg)
+* 💬 Ask me about anything and everything!
+* 📫 Reach me on WhatsApp: [Click Here](https://wa.me/201288312230)
+* ⚡ Fun fact: I love meeting new people and playing video games!
+* 💡 Ping me about:
+
+  * #Cloud
+  * #RPA
+  * #CommunityOps
+  * #DevRel
+  * #Marketing
+  * #CampusOps
+  * #Speaking Opportunities
+
+---
+
+## 📈 Profile Views

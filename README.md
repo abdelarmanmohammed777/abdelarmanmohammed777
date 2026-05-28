@@ -3,17 +3,18 @@
 <h3 align="center">🚀 Community Leader | 💻 Full Stack Developer | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile!;Frontend+%7C+Backend+%7C+Python+%7C+SQL;Building+Projects+🚀;Learning+Data+Structures+📚;Never+Stop+Improving+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile!;Frontend+%7C+Backend+%7C+Python+%7C+SQL;Building+Real+Projects+🚀;Learning+Data+Structures+📚;Always+Improving+Every+Day+✨" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning: Python • SQL • Data Structures • Algorithms  
-- 👨‍🏫 Community Mentor & Workshop Speaker  
-- 🚀 Love building real-world projects  
-- 🎮 Gamer & Problem Solver  
+- 🌱 Currently learning: **Python • SQL • Data Structures • Algorithms**
+- 👨‍🏫 Community Mentor & Workshop Speaker
+- 🚀 Passionate about building real-world projects
+- 🎮 Gamer & Problem Solver
+- ⚡ Always curious and learning new tech
 
 ---
 
@@ -25,6 +26,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelarmanmohammed777&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelarmanmohammed777&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
 
 ## 👀 Profile Views
 
@@ -34,7 +43,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>

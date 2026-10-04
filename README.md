@@ -21,9 +21,8 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelarmanmohammed777&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,php,mysql,git,github,vscode&theme=dark&perline=11" />
 </p>
-
 ---
 
 
@@ -59,5 +58,4 @@
 
 <p align="center">
   <b>🔥 Keep learning. Keep building. Keep growing. 🔥</b>
-</p>
- مش شغاله 
+</p> 

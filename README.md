@@ -21,7 +21,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,bootstrap,tailwind,pycharm" />
+  <img src="https://komarev.com/ghpvc/?username=abdelarmanmohammed777&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -31,9 +31,8 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelarmanmohammed777&color=00FFFF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=abdelarmanmohammed777&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Activity
